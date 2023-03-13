@@ -4,3 +4,8 @@
 ## Linear Programming
 - [LinearProgramming/JonassonFeed.ipynb](LinearProgramming/JonassonFeed.ipynb) is a cost minimization problem.
 - [LinearProgramming/ComputerScheduling.ipynb](LinearProgramming/ComputerScheduling.ipynb) demonstrates a solution to a problem scheduling workers with different availabilities.
+
+## Shipping
+
+## Interior Point Algorithm
+
